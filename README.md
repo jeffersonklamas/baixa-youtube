@@ -1,6 +1,6 @@
 ## Programa básico para baixar vídeo do youtube
 
-Vi um post no instagram do usuário @pycodebr e resolvi aplicat e testar.
+Vi um post no instagram do usuário @pycodebr e resolvi aplicar e testar.
 
 E não é que não deu certo, caraca o famoso copia e cola de início não deu certo.
 
@@ -22,5 +22,3 @@ e
 ~~~python
 pip install pytube3
 ~~~
-
-
